@@ -1,0 +1,25 @@
+{
+  "name": "command-executer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stupendusmagneficus/command-executer.git"
+  },
+  "author": "Yahor Dunayeu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stupendusmagneficus/command-executer/issues"
+  },
+  "homepage": "https://github.com/stupendusmagneficus/command-executer#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^8.2.1"
+  }
+}
