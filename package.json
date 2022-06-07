@@ -17,7 +17,8 @@
   },
   "homepage": "https://github.com/stupendusmagneficus/command-executer#readme",
   "dependencies": {
-    "inquirer": "^8.2.4"
+    "inquirer": "^8.2.4",
+    "prettier": "^2.6.2"
   },
   "devDependencies": {
     "@types/inquirer": "^8.2.1"
